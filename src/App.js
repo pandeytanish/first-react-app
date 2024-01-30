@@ -1,7 +1,9 @@
 import './App.css';
 import Home from './Components/Home';
 import Info from './Components/Info';
-import Login from './Components/Login';
+import Event from './Components/Event';
+import Key from './Components/Key';
+
 
 
 function App() {
@@ -9,8 +11,9 @@ function App() {
 
 <>
 < Home />
-<Login/>
+<Event/>
 <Info/>
+<Key/>
 </>
 
   );
