@@ -6,8 +6,10 @@ const Info = () => {
 
     if (currentColor === 'rgb(0, 0, 0)' || currentColor === 'black') {
       root.style.backgroundColor = "white";
+      alert("Light mode ")
     } else {
       root.style.backgroundColor = "black";
+      alert("dark mode")
     }
   };
 
