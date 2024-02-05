@@ -4,6 +4,10 @@ import Info from './Components/Info';
 import Event from './Components/Event';
 import Key from './Components/Key';
 import Fun from './Components/Fun';
+import Api from './Components/Api';
+
+
+
 
 
 
@@ -16,6 +20,9 @@ function App() {
 <Info/>
 <Key/>
 <Fun/>
+<Api/>
+
+
 </>
 
   );

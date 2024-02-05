@@ -1,13 +1,7 @@
 const Home = () =>{
     return (
         <>
-        <h1>Welcome To your First react app</h1>
-        <h1>Welcome To your First react app</h1>
-        <h1>Welcome To your First react app</h1>
-        <h1>Welcome To your First react app</h1>
-        <h1>Welcome To your First react app</h1>
-        <h1>Welcome To your First react app</h1>
-        
+        <h1>Welcome To your First react app</h1>  
         </>
     )
 }
