@@ -6,11 +6,6 @@ import Key from './Components/Key';
 import Fun from './Components/Fun';
 import Api from './Components/Api';
 
-
-
-
-
-
 function App() {
   return (
 
@@ -21,8 +16,6 @@ function App() {
 <Key/>
 <Fun/>
 <Api/>
-
-
 </>
 
   );

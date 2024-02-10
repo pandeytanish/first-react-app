@@ -20,7 +20,6 @@ return(
 <button onClick={()=>Decrement()}>Decrement</button>
 <button onClick={()=>Square()}>Square</button>
 <button onClick={()=>Reset()}>Reset value</button>
-<button onClick={()=>Reset()}>Reset value</button>
 </>
 );
 }
