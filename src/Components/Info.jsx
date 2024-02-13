@@ -17,7 +17,7 @@ const Info = () => {
     <>
       <button  className="toggle-button" onClick={toggleMode}>
       
-        CHange Mode
+        Set Mode
       </button>
     </>
   );
