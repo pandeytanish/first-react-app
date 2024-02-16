@@ -5,6 +5,7 @@ import Event from './Components/Event';
 import Key from './Components/Key';
 import Fun from './Components/Fun';
 import Api from './Components/Api';
+import ColorPicker from './Components/ColorPicker';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
 <Key/>
 <Fun/>
 <Api/>
+<ColorPicker/>
 </>
 
   );
