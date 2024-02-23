@@ -1,30 +1,12 @@
 import React, { useState } from 'react';
 
-function ColorPicker() {
-  const [selectedColor, setSelectedColor] = useState('#ffffff'); // Initial color is white
-
-  const handleColorChange = (e) => {
-    setSelectedColor(e.target.value);
-  };
+function ColorPicker () {
+  const [color,setColor] = useState("Olive")
 
   return (
-    <div>
-      <h2>Color Picker</h2>
-      <input
-        type="color"
-        value={selectedColor}
-        onChange={handleColorChange}
-      />
-      <div
-        style={{
-          marginTop: '20px',
-          width: '100px',
-          height: '100px',
-          backgroundColor: selectedColor,
-        }}
-      ></div>
-    </div>
-  );
-}
+    <div className='.'>
 
+    </div>
+  )
+}
 export default ColorPicker;

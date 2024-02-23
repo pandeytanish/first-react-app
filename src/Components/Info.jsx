@@ -12,7 +12,7 @@ const Info = () => {
       alert("dark mode")
     }
   };
-
+  
   return (
     <>
       <button  className="toggle-button" onClick={toggleMode}>
