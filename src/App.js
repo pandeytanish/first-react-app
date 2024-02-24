@@ -11,6 +11,7 @@ function App() {
   return (
 
 <>
+<h1>First React App</h1>
 < Home />
 <Event/>
 <Info/>
