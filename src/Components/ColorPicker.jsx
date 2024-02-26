@@ -5,7 +5,7 @@ function ColorPicker () {
 
   return (
     <div className='.'>
-
+<h1>pick a color</h1>
     </div>
   )
 }
