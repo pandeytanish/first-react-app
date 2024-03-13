@@ -8,6 +8,7 @@ import Api from './Components/Api';
 import ColorPicker from './Components/ColorPicker';
 
 import Test from './Components/Test';
+import New from './Components/New';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
 <ColorPicker/>
 <h1>React App</h1> */}
 <Test/>
+<New/>
 </>
 
   );
