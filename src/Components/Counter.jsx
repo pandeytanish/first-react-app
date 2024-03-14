@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 
-function btnClick() {
+function Counter() {
   const clickCount = useRef(0);
 
   const handleClick = () => {
@@ -15,4 +15,4 @@ function btnClick() {
   );
 }
 
-export default btnClick;
+export default Counter;

@@ -9,6 +9,8 @@ import ColorPicker from './Components/ColorPicker';
 
 import Test from './Components/Test';
 import New from './Components/New';
+import Counter from './Components/Counter';
+
 
 function App() {
   return (
@@ -25,6 +27,7 @@ function App() {
 <h1>React App</h1> */}
 <Test/>
 <New/>
+<Counter/>
 </>
 
   );
